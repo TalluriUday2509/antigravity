@@ -35,7 +35,7 @@ const projectsData = [
     title: "High-ROI Google Ads SEM Campaign",
     subtitle: "Search Ads, Audience Segmentation & Conversion Optimization",
     category: "Paid Marketing",
-    image: "assets/hero-graphic.jpg",
+    image: "assets/paid_marketing_sample_1.jpg",
     tags: ["Google Ads", "SEM", "A/B Testing", "Analytics"],
     summary: "Structured and managed targeted Search Engine Marketing (SEM) ad groups, reducing Cost-Per-Acquisition (CPA) by 28% while boosting quality leads through A/B tested ad copies and landing page alignments.",
     metrics: [
@@ -65,7 +65,7 @@ const projectsData = [
     title: "Authority Off-Page Link Building & Domain Health",
     subtitle: "Off-Page SEO Workflows, Backlink Acquisition & Domain Profile Monitoring",
     category: "Off-Page SEO",
-    image: "assets/hero-graphic.jpg",
+    image: "assets/offpage_seo_sample_1.jpg",
     tags: ["Link Building", "Off-Page SEO", "Domain Audit", "SERP"],
     summary: "Built and monitored off-page optimization workflows, securing 50+ contextual high-authority backlinks while maintaining domain health and protecting against spammy link profiles.",
     metrics: [
@@ -95,7 +95,7 @@ const projectsData = [
     title: "Content Marketing & Lead Nurturing Workflows",
     subtitle: "HubSpot Automation, Social Collateral & Audience Segmentation",
     category: "Content & Social",
-    image: "assets/hero-graphic.jpg",
+    image: "assets/content_social_sample_1.jpg",
     tags: ["HubSpot", "Canva", "Content Strategy", "Social Media"],
     summary: "Developed high-impact marketing collateral in Canva and configured automated lead nurturing workflows in HubSpot, raising lead-to-opportunity conversion rates by 24%.",
     metrics: [
